@@ -1,0 +1,202 @@
+{
+  "values": [
+    {
+      "hawaiian": "Aloha",
+      "pronunciation": "ah-LOH-hah",
+      "english": "Love, compassion, greeting",
+      "cultural_context": "More than a greeting, aloha is a way of being that encompasses love, compassion, and respect for all. It's the foundation of Hawaiian culture and guides how people treat each other and the land.",
+      "practical_application": "Practice aloha by greeting others warmly, showing genuine care in daily interactions, and treating the environment with respect. Consider how your actions affect others and choose kindness.",
+      "related_concepts": ["pono", "mālama", "mahalo", "lōkahi", "kōkua"],
+      "olelo_noeau": "Aloha kekahi i kekahi - Love one another"
+    },
+    {
+      "hawaiian": "Pono",
+      "pronunciation": "POH-noh",
+      "english": "Righteousness, balance, harmony",
+      "cultural_context": "Pono means living in right relationship with yourself, others, and the world. It's about balance, fairness, and making choices that maintain harmony in all aspects of life.",
+      "practical_application": "Before making decisions, ask yourself: 'Is this pono?' Consider whether your choice maintains balance and respects all involved. Pono guides ethical action in work, relationships, and community.",
+      "related_concepts": ["aloha", "kuleana", "hoʻoponopono", "lōkahi"],
+      "olelo_noeau": "I ka ʻōlelo no ke ola, i ka ʻōlelo no ka make - In language there is life, in language there is death"
+    },
+    {
+      "hawaiian": "Kuleana",
+      "pronunciation": "koo-leh-AH-nah",
+      "english": "Responsibility, privilege, right",
+      "cultural_context": "Kuleana is both a right and a responsibility. Having kuleana means you have authority over something, but that authority comes with the obligation to care for it properly. It's inseparable from accountability.",
+      "practical_application": "Recognize your kuleana in your family, workplace, and community. With every privilege comes responsibility. If you have knowledge, your kuleana is to share it. If you use resources, your kuleana is to protect them.",
+      "related_concepts": ["pono", "mālama", "kūpuna", "ʻāina"],
+      "olelo_noeau": "He aliʻi ka ʻāina, he kauwā ke kanaka - The land is chief, man is its servant"
+    },
+    {
+      "hawaiian": "Mālama",
+      "pronunciation": "MAH-lah-mah",
+      "english": "To care for, preserve, protect",
+      "cultural_context": "Mālama is active caring and stewardship. It's not passive protection but engaged nurturing of people, land, culture, and relationships. Mālama recognizes that what we care for will care for us in return.",
+      "practical_application": "Practice mālama by tending to your relationships, maintaining your environment, and preserving cultural knowledge. This means regular action—checking in on family, maintaining your home, learning traditions to pass on.",
+      "related_concepts": ["kuleana", "ʻāina", "ʻohana", "aloha ʻāina"],
+      "olelo_noeau": "Mālama i ka ʻāina, a e mālama ka ʻāina iā ʻoe - Care for the land, and the land will care for you"
+    },
+    {
+      "hawaiian": "Mahalo",
+      "pronunciation": "mah-HAH-loh",
+      "english": "Gratitude, appreciation, thanks",
+      "cultural_context": "Mahalo goes beyond polite thanks—it's recognizing the interconnection between giver and receiver. It acknowledges that we are all part of a web of relationships and reciprocity.",
+      "practical_application": "Express mahalo not just for things received, but for the effort, intention, and sacrifice behind them. Show gratitude through actions, not just words. Reciprocate kindness and pass it forward.",
+      "related_concepts": ["aloha", "lōkahi", "ʻohana", "kōkua"],
+      "olelo_noeau": "E ʻoluʻolu e kōkua mai - Please help with kindness"
+    },
+    {
+      "hawaiian": "Kōkua",
+      "pronunciation": "KOH-koo-ah",
+      "english": "Help, assistance, cooperation",
+      "cultural_context": "Kōkua is helping without being asked, recognizing needs before they're spoken. It's community support that doesn't keep score or expect immediate return. Kōkua builds the social fabric that holds communities together.",
+      "practical_application": "Offer kōkua proactively when you see someone struggling. In your community, be the person who shows up to help. Remember that accepting help is also important—it allows others to practice kōkua.",
+      "related_concepts": ["laulima", "ʻohana", "aloha", "lōkahi"],
+      "olelo_noeau": "E lawe i ke aʻo a mālama, a e ʻoi mau ka naʻauao - Take teachings and apply them, and wisdom will increase"
+    },
+    {
+      "hawaiian": "Lōkahi",
+      "pronunciation": "loh-KAH-hee",
+      "english": "Unity, harmony, agreement",
+      "cultural_context": "Lōkahi is the unity between all things—people, land, and spirit. It's the understanding that we're strongest when working together, and that conflict disrupts the balance needed for a community to thrive.",
+      "practical_application": "Seek lōkahi in your relationships by finding common ground and working toward shared goals. In conflicts, look for solutions that benefit everyone. Build bridges instead of walls.",
+      "related_concepts": ["pono", "aloha", "laulima", "hoʻoponopono"],
+      "olelo_noeau": "ʻAʻohe hana nui ke alu ʻia - No task is too big when done together"
+    },
+    {
+      "hawaiian": "Hoʻoponopono",
+      "pronunciation": "ho-oh-poh-noh-POH-noh",
+      "english": "To make right, restore balance",
+      "cultural_context": "Hoʻoponopono is a practice of making things right when relationships are broken. It involves honest communication, taking responsibility, seeking forgiveness, and restoring harmony. It's restorative justice in action.",
+      "practical_application": "When conflicts arise, practice hoʻoponopono: acknowledge the hurt, take responsibility for your part, forgive others and yourself, and commit to moving forward in pono. Don't let grievances fester.",
+      "related_concepts": ["pono", "lōkahi", "aloha", "ʻohana"],
+      "olelo_noeau": "Ma ka hana ka ʻike - In doing, one learns"
+    },
+    {
+      "hawaiian": "ʻOhana",
+      "pronunciation": "oh-HAH-nah",
+      "english": "Family, extended family",
+      "cultural_context": "ʻOhana extends beyond blood relations to include chosen family, community members, and all who share bonds of mutual care. In Hawaiian culture, ʻohana is the fundamental social unit and source of identity and support.",
+      "practical_application": "Nurture your ʻohana by staying connected, sharing resources, and supporting each other through challenges. Remember that ʻohana obligations are reciprocal—give what you can and accept help when offered.",
+      "related_concepts": ["kūpuna", "keiki", "makua", "hānai", "mālama"],
+      "olelo_noeau": "ʻOhana means family, and family means nobody gets left behind"
+    },
+    {
+      "hawaiian": "Kūpuna",
+      "pronunciation": "koo-POO-nah",
+      "english": "Elder, grandparent, ancestor",
+      "cultural_context": "Kūpuna are the keepers of knowledge, wisdom, and tradition. They are living connections to the past and guides for the future. Respecting and learning from kūpuna is essential for cultural continuity.",
+      "practical_application": "Listen to and learn from your elders. Ask them to share their stories and knowledge. Value their experience and wisdom. If you are becoming a kūpuna, embrace your kuleana to pass on what you know.",
+      "related_concepts": ["ʻohana", "ʻike kūpuna", "hoʻomau", "moʻolelo"],
+      "olelo_noeau": "I ka wā ma mua, ka wā ma hope - The future is in the past"
+    },
+    {
+      "hawaiian": "Keiki",
+      "pronunciation": "KAY-kee",
+      "english": "Child, children",
+      "cultural_context": "Keiki are treasured members of the community, not just belonging to their parents but to the entire ʻohana. Children are the future carriers of culture and are raised collectively with love and responsibility.",
+      "practical_application": "All adults have kuleana toward keiki—to protect, teach, and nurture them. Whether parent, teacher, or community member, your actions model values for the next generation. Treat all children with care.",
+      "related_concepts": ["ʻohana", "kūpuna", "makua", "hoʻomau"],
+      "olelo_noeau": "Aʻohe pau ka ʻike i ka hālau hoʻokahi - All knowledge is not taught in one school"
+    },
+    {
+      "hawaiian": "Makua",
+      "pronunciation": "mah-KOO-ah",
+      "english": "Parent, adult",
+      "cultural_context": "Makua are those who nurture and guide the next generation. In Hawaiian culture, makua includes biological parents, but also aunts, uncles, and other adults who take on parental responsibilities within the ʻohana.",
+      "practical_application": "As makua, your kuleana is to provide for, protect, and teach keiki the values and skills they need. Model pono behavior, share cultural knowledge, and create stable, loving environments for children to thrive.",
+      "related_concepts": ["keiki", "kūpuna", "ʻohana", "hānai"],
+      "olelo_noeau": "ʻAʻohe pau ka ʻike i ka hālau hoʻokahi - All knowledge is not taught in one school"
+    },
+    {
+      "hawaiian": "Hānai",
+      "pronunciation": "HAH-nai",
+      "english": "Adopted, fostered, fed",
+      "cultural_context": "Hānai is the practice of fostering or adopting children within the ʻohana, creating bonds as strong as biological ties. It reflects the understanding that family is built through care and commitment, not just blood.",
+      "practical_application": "Recognize that hānai relationships are as valid and important as biological ones. Support families formed through adoption and fostering. Remember that feeding and nurturing someone creates deep bonds.",
+      "related_concepts": ["ʻohana", "keiki", "makua", "mālama"],
+      "olelo_noeau": "Hānai ka mākua, hānai ke keiki - Parents feed children, children feed parents"
+    },
+    {
+      "hawaiian": "ʻĀina",
+      "pronunciation": "EYE-nah",
+      "english": "Land, earth",
+      "cultural_context": "ʻĀina means land, but it also means 'that which feeds.' The land is not property to be owned but a living relative to be cared for. It provides sustenance and identity, and humans have kuleana to protect it.",
+      "practical_application": "Treat the land as family. When you use resources, do so sustainably. Learn about the ecosystems where you live. Support conservation efforts. Remember: you don't own the land, you belong to it.",
+      "related_concepts": ["mālama", "kuleana", "aloha ʻāina", "kai", "mauna"],
+      "olelo_noeau": "He aliʻi ka ʻāina, he kauwā ke kanaka - The land is chief, man is its servant"
+    },
+    {
+      "hawaiian": "Kai",
+      "pronunciation": "KAI",
+      "english": "Ocean, sea",
+      "cultural_context": "Kai is the vast ocean that surrounds and connects the Hawaiian islands. It's a source of food, transportation, and spiritual power. The ocean is both provider and teacher, demanding respect and offering abundance.",
+      "practical_application": "Respect the ocean's power and treat it with care. Don't pollute waters or deplete fish stocks. Learn ocean safety and navigation. Understand that the kai connects all islands and peoples of the Pacific.",
+      "related_concepts": ["ʻāina", "moana", "wai", "mālama"],
+      "olelo_noeau": "Aia ke ola i ka wai - Life is in the water"
+    },
+    {
+      "hawaiian": "Mauna",
+      "pronunciation": "MAU-nah",
+      "english": "Mountain",
+      "cultural_context": "Mauna are sacred high places, connecting earth and sky. Mountains like Mauna Kea are considered ancestors, home to gods, and sources of fresh water. They are places of spiritual power requiring utmost respect.",
+      "practical_application": "Treat mountains and high places with reverence. If you visit sacred sites, do so respectfully. Support protection of mountain ecosystems. Recognize that mountains are not just scenery but living entities with mana.",
+      "related_concepts": ["ʻāina", "wai", "kapu aloha", "mana"],
+      "olelo_noeau": "Kū ha'o Mauna Kea - Mauna Kea stands in wonder"
+    },
+    {
+      "hawaiian": "Wai",
+      "pronunciation": "WAI",
+      "english": "Fresh water",
+      "cultural_context": "Wai is fresh water—the source of all life. In Hawaiian culture, water is sacred and must be protected. Access to clean water is a basic right, and maintaining water sources is a community kuleana.",
+      "practical_application": "Conserve water and protect water sources from pollution. Support efforts to maintain streams, springs, and aquifers. Remember that water flows downhill—what happens upstream affects everyone below.",
+      "related_concepts": ["ʻāina", "kai", "moana", "mālama"],
+      "olelo_noeau": "Aia ke ola i ka wai - Life is in the water"
+    },
+    {
+      "hawaiian": "Moana",
+      "pronunciation": "moh-AH-nah",
+      "english": "Deep ocean, vast sea",
+      "cultural_context": "Moana is the deep, open ocean—the realm of great voyages and profound mystery. It represents both the connection between Pacific peoples and the vast unknown. Moana holds ancestral knowledge of navigation and exploration.",
+      "practical_application": "Honor the moana by learning about Pacific navigation traditions. Support ocean conservation efforts. Understand that Hawaiians are part of a vast ocean-connected culture spanning thousands of miles.",
+      "related_concepts": ["kai", "ʻāina", "hoʻomau", "mana"],
+      "olelo_noeau": "I ka ʻōlelo ke ola, i ka ʻōlelo ka make - In words is life, in words is death"
+    },
+    {
+      "hawaiian": "Hula",
+      "pronunciation": "HOO-lah",
+      "english": "Hawaiian dance",
+      "cultural_context": "Hula is a sacred dance form that tells stories, preserves history, and honors gods and ancestors. It's not entertainment but a living practice that carries deep cultural knowledge through movement, chant, and oli.",
+      "practical_application": "If you practice hula, approach it with reverence and proper training. Respect its sacred aspects. If you watch hula, recognize you're witnessing storytelling and cultural preservation, not just performance.",
+      "related_concepts": ["oli", "moʻolelo", "hoʻomau", "mana"],
+      "olelo_noeau": "Hula mai i ka lani - Dance reaching to the heavens"
+    },
+    {
+      "hawaiian": "Oli",
+      "pronunciation": "OH-lee",
+      "english": "Chant",
+      "cultural_context": "Oli are traditional Hawaiian chants that carry history, genealogy, prayers, and knowledge. Different oli serve different purposes—asking permission to enter, honoring places or people, telling stories. Oli is the voice of ancestors.",
+      "practical_application": "Learn the oli appropriate for your context. Before entering sacred spaces, offer oli if you know the proper one. Recognize that oli carries mana and should be treated with respect, not performed casually.",
+      "related_concepts": ["hula", "moʻolelo", "kumulipo", "mana"],
+      "olelo_noeau": "He leo ka Hawaiʻi - Hawaii has a voice"
+    },
+    {
+      "hawaiian": "Hana Noʻeau",
+      "pronunciation": "HAH-nah noh-EH-ow",
+      "english": "Skilled work, artistry, craft",
+      "cultural_context": "Hana noʻeau is skilled work done with excellence and cultural knowledge. Traditional crafts like weaving, carving, and tapa-making are hana noʻeau, but so is any work done with mastery and aloha. It's artistry applied to practical life.",
+      "practical_application": "Whatever your work, do it with excellence and intention. Learn traditional crafts if possible. Support artisans who practice hana noʻeau. Recognize that skill development is a lifelong practice worth pursuing.",
+      "related_concepts": ["ʻike kūpuna", "hoʻomau", "mālama", "pono"],
+      "olelo_noeau": "Ma ka hana ka ʻike - In doing, one learns"
+    },
+    {
+      "hawaiian": "Kumulipo",
+      "pronunciation": "koo-moo-LEE-poh",
+      "english": "Hawaiian creation chant",
+      "cultural_context": "The Kumulipo is a 2,000-line genealogical creation chant that traces the origins of the Hawaiian people from the birth of the cosmos. It connects humans to all of nature through genealogy, establishing our place in the natural order.",
+      "practical_application": "Study the Kumulipo to understand Hawaiian cosmology and your connection to the natural world. Recognize that you are part of a genealogy that extends back to the beginning of creation. This knowledge grounds identity and responsibility.",
+      "related_concepts": ["moʻolelo", "ʻike kūpuna", "oli", "kūpuna"],
+      "olelo_noeau": "I ka wā ma mua, ka wā ma hope - The future is in the past"
+    }
+  ]
+}

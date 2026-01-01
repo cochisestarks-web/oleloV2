@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ʻŌlelo Hawaiʻi Daily Practice</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        'taro-purple': '#7B5B8A',
+                        'soft-cream': '#FAF3E0',
+                        'deep-ocean': '#1A5F7A',
+                        'seafoam-teal': '#5FB3B3',
+                        'charcoal': '#2D2D2D',
+                    }
+                }
+            }
+        }
+    </script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700&family=Open+Sans:wght@400;600&display=swap');
+        
+        body {
+            font-family: 'Open Sans', sans-serif;
+        }
+        
+        h1, h2, h3 {
+            font-family: 'Merriweather', serif;
+        }
+    </style>
+</head>
+<body class="bg-soft-cream min-h-screen">
+    <!-- Header -->
+    <header class="bg-taro-purple text-soft-cream shadow-lg">
+        <div class="container mx-auto px-4 py-6">
+            <h1 class="text-3xl md:text-4xl font-bold text-center">ʻŌlelo Hawaiʻi Daily Practice</h1>
+            <p class="text-center mt-2 text-seafoam-teal text-sm md:text-base">Ma ka hana ka ʻike - In doing, one learns</p>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="container mx-auto px-4 py-8 max-w-4xl">
+        <!-- Value of the Day Card -->
+        <section id="value-of-day" class="bg-white rounded-lg shadow-xl p-6 md:p-8 mb-8 border-t-4 border-deep-ocean">
+            <div class="flex items-center justify-between mb-6">
+                <h2 class="text-2xl md:text-3xl font-bold text-charcoal">Value of the Day</h2>
+                <button id="refresh-btn" class="bg-seafoam-teal hover:bg-deep-ocean text-white px-4 py-2 rounded-lg transition-colors duration-200 text-sm md:text-base">
+                    New Value
+                </button>
+            </div>
+
+            <!-- Loading State -->
+            <div id="loading" class="text-center py-12">
+                <div class="inline-block h-8 w-8 animate-spin rounded-full border-4 border-solid border-deep-ocean border-r-transparent"></div>
+                <p class="mt-4 text-charcoal">Loading Hawaiian wisdom...</p>
+            </div>
+
+            <!-- Value Content -->
+            <div id="value-content" class="hidden">
+                <!-- Hawaiian Word -->
+                <div class="mb-6">
+                    <h3 id="hawaiian-word" class="text-4xl md:text-5xl font-bold text-taro-purple mb-2"></h3>
+                    <p id="pronunciation" class="text-lg text-gray-600 italic mb-2"></p>
+                    <p id="english-translation" class="text-xl text-deep-ocean font-semibold"></p>
+                </div>
+
+                <!-- Cultural Context -->
+                <div class="mb-6">
+                    <h4 class="text-lg font-bold text-charcoal mb-2 border-b-2 border-seafoam-teal pb-1">Cultural Context</h4>
+                    <p id="cultural-context" class="text-gray-700 leading-relaxed"></p>
+                </div>
+
+                <!-- Practical Application -->
+                <div class="mb-6">
+                    <h4 class="text-lg font-bold text-charcoal mb-2 border-b-2 border-seafoam-teal pb-1">How to Practice Today</h4>
+                    <p id="practical-application" class="text-gray-700 leading-relaxed"></p>
+                </div>
+
+                <!-- Hawaiian Proverb -->
+                <div id="proverb-section" class="mb-6 bg-soft-cream p-4 rounded-lg border-l-4 border-taro-purple">
+                    <p id="olelo-noeau" class="text-deep-ocean italic font-medium"></p>
+                </div>
+
+                <!-- Related Concepts -->
+                <div>
+                    <h4 class="text-lg font-bold text-charcoal mb-2">Related Concepts</h4>
+                    <div id="related-concepts" class="flex flex-wrap gap-2"></div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Quick Stats -->
+        <section class="grid grid-cols-1 md:grid-cols-3 gap-4 mb-8">
+            <div class="bg-white rounded-lg shadow-md p-4 text-center border-t-2 border-taro-purple">
+                <p class="text-3xl font-bold text-deep-ocean">22</p>
+                <p class="text-sm text-gray-600">Hawaiian Values</p>
+            </div>
+            <div class="bg-white rounded-lg shadow-md p-4 text-center border-t-2 border-seafoam-teal">
+                <p class="text-3xl font-bold text-deep-ocean" id="days-practiced">0</p>
+                <p class="text-sm text-gray-600">Days Practiced</p>
+            </div>
+            <div class="bg-white rounded-lg shadow-md p-4 text-center border-t-2 border-taro-purple">
+                <p class="text-3xl font-bold text-deep-ocean" id="values-learned">0</p>
+                <p class="text-sm text-gray-600">Values Explored</p>
+            </div>
+        </section>
+
+        <!-- About Section -->
+        <section class="bg-white rounded-lg shadow-md p-6 text-center">
+            <p class="text-gray-700 leading-relaxed">
+                This app teaches Hawaiian values through daily practice and cultural context. 
+                Each value is presented with its deeper meaning and practical applications for everyday life.
+            </p>
+            <p class="text-sm text-gray-500 mt-4">
+                Built with aloha by Derek | Portfolio Project 4/4
+            </p>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-charcoal text-soft-cream text-center py-6 mt-12">
+        <p class="text-sm">E ola mau ka ʻōlelo Hawaiʻi - May the Hawaiian language live on</p>
+    </footer>
+
+    <script src="app.js"></script>
+</body>
+</html>
