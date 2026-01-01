@@ -52,8 +52,8 @@ I'm a full-stack developer with 20+ years of retail operations experience, now b
 ## 📫 Let's Connect
 
 - **LinkedIn**: [Derek Loa](#)
-- **Email**: [your-email@example.com]
-- **Portfolio**: [cochisestarks.com](https://cochisestarks.com) *(Coming Soon)*
+- **Email**: [starksukraine@gmail.com]
+- **Portfolio**: [https://github.com/cochisestarks-web] *(Coming Soon)*
 
 ---
 
